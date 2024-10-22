@@ -1,10 +1,5 @@
-print("1st program")
-print(5 * 9 ** 0.5)
-print("2st program")
-print(9.99 > 9.98 and 1000 != 1000.1)
-print("3st program")
-print(2 * 2 + 2)
-print(2 * (2 + 2))
-print(6 == 8)
-print("4st prodram")
-print(int(float("123.456") * 10) % 10)
+number_of_completed_homework_assignments = 12
+number_of_hours_spent = 1.5
+course_name = "Python"
+time_for_one_task = (2 and 1)
+print(number_of_hours_spent / number_of_completed_homework_assignments)
